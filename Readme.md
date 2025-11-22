@@ -13,11 +13,16 @@ Each module is placed in its own folder with proper structure and testbenches.
 
 ## 📁 Project Structure
 
-Verilog/
+Verilog
+
 ├── Counter/
+
 ├── Full_Adder/
+
 ├── Half_Adder/
+
 ├── Multiplexer/
+
 └── FlipFlop/
 
 
